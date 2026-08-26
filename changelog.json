@@ -1,15 +1,5 @@
 {
   "latest_version_code": 45,
-  "changelog": {
-    "en": "What's New in Version 1.1:
-
-• New Visuals & Polish: Fresh icon designs, dynamic 3D shield effects in combat, and smooth power-up card animations in the Market.
-• Scaled Scoring & Leaderboards: Defeating tougher monsters now awards scaled point bonuses, with real-time leaderboard updates and run summary scores.
-• Rival Difficulty Balancing: Rebalanced rival score scaling for a fairer, more competitive leaderboard climb.
-• Audio & Stability Fixes: Resolved low-health audio muffle issues and applied shader optimizations for smoother performance across all Android devices.
-• Google Play Cloud Save: Enhanced cloud sync for high scores, daily rewards, and streaks.
-
-Thank you for playing Mini Match RPG!
-",
-  }
+  "changelog": "What's New in Version 1.1:\n\n• New Visuals & Polish: Fresh icon designs, dynamic 3D shield effects in combat, and smooth power-up card animations in the Market.\n• Scaled Scoring & Leaderboards: Defeating tougher monsters now awards scaled point bonuses, with real-time leaderboard updates and run summary scores.\n• Rival Difficulty Balancing: Rebalanced rival score scaling for a fairer, more competitive leaderboard climb.\n• Audio & Stability Fixes: Resolved low-health audio muffle issues and applied shader optimizations for smoother performance across all Android devices.\n• Google Play Cloud Save: Enhanced cloud sync for high scores, daily rewards, and streaks.\n\nThank you for playing Mini Match RPG!"
 }
+
